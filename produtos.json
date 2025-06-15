@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "001",
+        "nome": "sabonete",
+        "preco": 10.50,
+        "quantidade": 20
+    },  
+    {
+        "codigo": "002",
+        "nome": "shampoo",
+        "preco": 25.00,
+        "quantidade": 15
+    },
+    {
+        "codigo": "003",
+        "nome": "condicionador",
+        "preco": 30.00,
+        "quantidade": 10
+    },
+    {
+        "codigo": "004",
+        "nome": "pasta de dente",
+        "preco": 5.00,
+        "quantidade": 50
+    }
+]
